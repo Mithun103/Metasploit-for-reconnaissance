@@ -66,4 +66,4 @@ set the PASS_FILE parameter to the wordlist path available inside /usr/share/wor
 ![image](https://github.com/1808charitha/Metasploit-for-reconnaissance/assets/132996838/671d8b95-a4c4-4be3-a006-52c6dccf5803)
 
 ## RESULT:
-The Metasploit framework for reconnaissance is  examined successfully
+The Metasploit framework for reconnaissance is  examined successfully.
